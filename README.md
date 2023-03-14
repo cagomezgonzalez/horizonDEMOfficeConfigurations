@@ -76,6 +76,5 @@ HKCU\Software\Microsoft\Windows NT\CurrentVersion\TokenBroker
 <AppData>\Microsoft\Templates\LiveContent
 <LocalAppData>\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\TempState
 
-
 [ExcludeRegistryTrees]
 HKCU\Software\Microsoft\Office\16.0\Common\Identity
