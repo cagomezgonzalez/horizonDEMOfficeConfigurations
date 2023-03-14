@@ -29,7 +29,7 @@ HKCU\Software\Microsoft\Tracing\WPPMediaPerApp\Teams
 <AppData>\Microsoft\Teams\lockfile
 <LocalAppData>\SquirrelTemp\SquirrelSetup.log
 
-#OneDrive for Business
+# OneDrive for Business
 [IncludeFolderTrees]
 <LocalAppData>\Microsoft\OneDrive
 
@@ -41,7 +41,7 @@ HKCU\Software\Microsoft\Office\16.0\SyncCenter
 HKCU\Software\Microsoft\Office\16.0\SyncProc
 HKCU\Software\Microsoft\Office\16.0\Workspaces
 
-#Shared Settings
+# Shared Settings
 [IncludeRegistryTrees]
 HKCU\Software\Microsoft\Office\16.0\Common
 HKCU\Software\Microsoft\Office\16.0\FirstRun
