@@ -78,4 +78,3 @@ HKCU\Software\Microsoft\Windows NT\CurrentVersion\TokenBroker
 
 [ExcludeRegistryTrees]
 HKCU\Software\Microsoft\Office\16.0\Common\Identity
-
